@@ -1,0 +1,14 @@
+{
+  "name": "faker-local",
+  "version": "1.0.0",
+  "description": "a local run of faker.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Uriel Ofir",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}
